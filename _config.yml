@@ -2,11 +2,11 @@
 title: Clean Blog
 email: your-email@yourdomain.com
 description: ""
-baseurl: "http://mravinale.github.io/"
+baseurl: "http://mravinale.github.io"
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: mravinale
+github_username:  mravinale
+facebook_username:  
 
 # Build settings
 markdown: kramdown
