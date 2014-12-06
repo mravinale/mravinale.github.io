@@ -1,8 +1,8 @@
 # Site settings
 title: Clean Blog
 email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+description: ""
+baseurl: "/"
 url: "http://yourdomain.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
