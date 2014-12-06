@@ -7,13 +7,14 @@
 // Tooltip Init
 $(function() {
     $("[data-toggle='tooltip']").tooltip();
+  $( ".site-heading h1" ).hide();
 });
 
 // Contact Form Scripts
 
 $(function() {
   
-  $( ".site-heading" ).remove();
+
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
