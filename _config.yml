@@ -1,7 +1,7 @@
 # Site settings
-title: Clean Blog
-email: your-email@yourdomain.com
-description: ""
+title: 
+email: mravinale@gmail.com
+description: 
 baseurl: "http://mravinale.github.io"
 url: "http://yourdomain.com"
 twitter_username: mravinale
