@@ -1,5 +1,6 @@
 # Site settings
-title: 
+title: "Mariano's Blog"
+subtitle: 
 email: mravinale@gmail.com
 description: 
 baseurl: "http://mravinale.github.io"
