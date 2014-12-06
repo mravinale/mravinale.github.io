@@ -12,6 +12,8 @@ $(function() {
 // Contact Form Scripts
 
 $(function() {
+  
+  $( ".site-heading" ).remove();
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
