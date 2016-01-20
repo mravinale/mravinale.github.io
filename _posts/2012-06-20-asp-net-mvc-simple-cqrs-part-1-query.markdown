@@ -5,6 +5,7 @@ date: 2012-06-20 17:48
 author: mravinale
 comments: true
 categories: [Asp.Net MVC]
+header-img: "img/post-bg-06.jpg"
 ---
 Inspired by the Jeremy blog post <a href="http://csharperimage.jeremylikness.com/2012/01/crud-its-now-cqrs-or-is-it.html" title="Jeremy blog post" target="_blank"> crud its now cqrs or is it</a> and
 Gregory Young simple CQRS project: <a href="https://github.com/gregoryyoung/m-r">https://github.com/gregoryyoung/m-r</a>
