@@ -5,6 +5,7 @@ date: 2010-10-27 22:01
 author: mravinale
 comments: true
 categories: [Windows Phone 7]
+header-img: "img/post-bg-06.jpg"
 ---
 Today I would like to share a project template ready to build great windows phone 7 applications using Mvvm Light, first of all this this project template is an update that I made from the current Mvvm Light project hosted on codeplex: <a href="http://mvvmlight.codeplex.com/">http://mvvmlight.codeplex.com/</a> my favorite toolkit to build Silverlight and Windows Phone 7 applications.
 

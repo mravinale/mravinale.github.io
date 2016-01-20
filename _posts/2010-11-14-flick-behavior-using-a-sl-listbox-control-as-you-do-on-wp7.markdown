@@ -5,6 +5,7 @@ date: 2010-11-14 02:40
 author: mravinale
 comments: true
 categories: [Silverlight]
+header-img: "img/post-bg-06.jpg"
 ---
 Working with Windows Phone 7, I get used to handle the ListBox control using that flickering efect with my mouse, then I’ve started to seek on the web for some control in Silverlight that imitates the same behavior, and I’ve found the <strong>Sasha Barber's<a href="http://sachabarber.net/?p=628" target="_blank"> </a>web</strong>,  who built a <a title="Permalink to  Creating A Scrollable Control Surface In WPF" rel="bookmark" href="http://sachabarber.net/?p=225">Creating A Scrollable Control Surface In WPF</a> with a nice efect and a very cool way to do the maths and calculate the speed and distance.
 

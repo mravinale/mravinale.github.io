@@ -5,6 +5,7 @@ date: 2010-10-16 22:01
 author: mravinale
 comments: true
 categories: [Windows Phone 7]
+header-img: "img/post-bg-06.jpg" 
 ---
 Today I would like to share a very good Augmented Reality application that would make to some of us the life a little more easier, and it is a good example where Augmented Reality can do and where can be used.
 

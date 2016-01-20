@@ -21,12 +21,12 @@ Ademas todo esto viene a colacion de encaminar los post hacia microarquitecturas
 
 <span style="color:#c0c0c0;"><span style="text-decoration:underline;">Ejemplo "Patron singleton" :</span></span>
     
+
 ```
- public sealed class Singleton {
+public sealed class Singleton{ 
 
     private static volatile Singleton instance;
-    private static object syncRoot = new Object();
-
+    private static object syncRoot = new Object(); 
     public static Singleton Instance {
         get {
             if (instance == null) {

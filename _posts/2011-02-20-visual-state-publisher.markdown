@@ -5,6 +5,7 @@ date: 2011-02-20 00:41
 author: mravinale
 comments: true
 categories: [Uncategorized]
+header-img: "img/post-bg-06.jpg"
 ---
 The Idea is that when we do doubleClick over the list we’ll see the detail and again doing doubleClick we’ll see the list again.
 

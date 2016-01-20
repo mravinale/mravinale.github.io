@@ -5,6 +5,7 @@ date: 2012-06-10 20:12
 author: mravinale
 comments: true
 categories: [Uncategorized]
+header-img: "img/post-bg-06.jpg"
 ---
 In order to handle property changed events in the view Model, you need to implement something like this:
 

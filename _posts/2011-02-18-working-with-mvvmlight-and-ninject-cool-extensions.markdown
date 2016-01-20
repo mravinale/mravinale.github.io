@@ -5,7 +5,9 @@ date: 2011-02-18 20:15
 author: mravinale
 comments: true
 categories: [Silverlight]
+header-img: "img/post-bg-06.jpg"
 ---
+
 <p>Today I would like to share some cool stuff that you can do with MvvmLight and Ninject extensions,</p>  <p>Other objective of this article is to show how to implement in a very quick way(easy steps) the <a href="http://en.wikipedia.org/wiki/Aspect-oriented_programming" target="_blank">AOP</a> IANPC Interception (actions to be executed before or after the execution of <strong>every</strong> call to a method in our code) provided by <a href="http://ninject.org/" target="_blank">Ninject</a> <a href="http://ninject.org/extensions" target="_blank">Extensions</a>(<a href="http://en.wikipedia.org/wiki/Dependency_injection" target="_blank">DI/Ioc</a>) applied in the implementation of the interface INotifyPropertyChange as a simple atribute.</p>  <p>in other words :</p>  <p>We are going to change this code:</p>  <pre class="code"><span style="color:blue;">      public class </span><span style="color:#2b91af;">SomeViewModel </span>: <span style="color:#2b91af;">ViewModelBase </span>{
 
            <span style="color:blue;">private </span><span style="color:#2b91af;">ObservableCollection</span>&lt;<span style="color:#2b91af;">Item</span>&gt; _listCollection;
@@ -28,10 +30,6 @@ categories: [Silverlight]
 
            [<span style="color:#2b91af;">NotifyOfChanges</span>]
            <span style="color:blue;">public virtual </span><span style="color:#2b91af;">ObservableCollection</span>&lt;<span style="color:#2b91af;">Item</span>&gt; ListCollection { <span style="color:blue;">get</span>; <span style="color:blue;">set</span>; }</pre>
-
-<p>
-  <br /></p>
-
 <pre class="code">       }</pre>
 
 <p>A little of history and motivation first:</p>

@@ -5,6 +5,7 @@ date: 2010-08-16 04:45
 author: mravinale
 comments: true
 categories: [Silverlight, Windows Phone 7]
+header-img: "img/post-bg-06.jpg"
 ---
 Si bien, la idea inicial era ir haciendo los post de forma incremental y que evolucione desde los patrones de diseño, hacia patrones mas avanzados como mvc, mvp hasta llegar a mvvm y empezar con Silverlight,  crei que es importante hablar de Rx ya que nos ayudara enormemente en Silverlight, y como estamos en el browser desde el lado cliente, seguramente habra muchas llamadas asyncronicas, es ahi donde Rx entra en juego.
 

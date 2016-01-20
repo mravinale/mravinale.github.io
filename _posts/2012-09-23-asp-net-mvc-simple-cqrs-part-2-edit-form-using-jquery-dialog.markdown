@@ -4,7 +4,8 @@ title: Asp.net MVC Simple CQRS part 2 - Edit form using jquery dialog
 date: 2012-09-23 21:04
 author: mravinale
 comments: true
-categories: [Asp.Net MVC]
+categories: [Asp.Net MVC].
+header-img: "img/post-bg-06.jpg"
 ---
 <strong>The goal:</strong>
 

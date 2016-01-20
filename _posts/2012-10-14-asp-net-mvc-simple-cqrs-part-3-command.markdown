@@ -5,6 +5,7 @@ date: 2012-10-14 21:05
 author: mravinale
 comments: true
 categories: [Asp.Net MVC, command processor, CQRS]
+header-img: "img/post-bg-06.jpg"
 ---
 In this part we need to implement a mechanism that will change the state of our domain, this mechanism will be the <a href="http://c2.com/cgi/wiki?CommandMessagePattern"><em>CommandMessage</em></a>.
 
