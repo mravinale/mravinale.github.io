@@ -5,6 +5,7 @@ date: 2010-06-09 05:05
 author: mravinale
 comments: true
 categories: [Diseño y arquitectura de software]
+header-img: "img/post-bg-06.jpg"
 ---
 Hoy quisiera compartir un resumen de los patrones de diseño mas conocidos y publicados en el libro "<a href="http://www.amazon.com/gp/product/0201633612">Design Patterns</a>" escrito por como se los conoce los "El grupo de los cuatro" (Gof) una guia para tener siempre a mano para el diseño y desarrollo de software.
 
@@ -19,9 +20,9 @@ Entender un poco la aplicacion de estos patrones nos ayudará mas adelante a rea
 Ademas todo esto viene a colacion de encaminar los post hacia microarquitecturas utilizadas en las aplicaciones RIA ya sea Flash, Flex o Silverlight, pero tiempo al tiempo.
 
 <span style="color:#c0c0c0;"><span style="text-decoration:underline;">Ejemplo "Patron singleton" :</span></span>
-
-[sourcecode language="csharp"]
-public sealed class Singleton {
+    
+```
+ public sealed class Singleton {
 
     private static volatile Singleton instance;
     private static object syncRoot = new Object();
@@ -36,8 +37,8 @@ public sealed class Singleton {
            return instance;
        }
    }
-}
-[/sourcecode]
+ }
+```
 
 <span style="color:#333399;"><strong><span style="color:#c0c0c0;"><span style="text-decoration:underline;">Patrones de creación</span></span></strong></span>
 <ul>
